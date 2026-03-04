@@ -11,7 +11,7 @@
 ## ✨ Features (English)
 
 * **🔄 Smart Auto-Restart:** Automatically detects game crashes, frozen windows (Not Responding), or excessive RAM usage and immediately restarts the specific account.
-* **👥 Multi-Account Manager:** Built-in secure browser (WebView2) for 1-click logins, or manual Cookie injection. Manage multiple accounts simultaneously (requires a multi-instance patch like *Bloxstrap*).
+* **👥 Multi-Account Manager:** Built-in secure browser (WebView2) for 1-click logins, or manual Cookie injection. Manage multiple accounts simultaneously.
 * **👻 Ghost Mode:** Completely hides active Roblox windows from your desktop and taskbar to save resources and keep your workspace clean.
 * **⏱️ Advanced Timers:** Set custom intervals for health checks, launch delays, scheduled force-restarts for each window, or complete farm shutdowns after X minutes.
 * **🔔 Real-Time Notifications:** Receive live status reports, restart alerts, and crash screenshots directly to your **Discord Webhook** or **Telegram Bot**.
@@ -33,7 +33,7 @@
 **RobloxTools** — это продвинутая система для автоматизации и контроля окон Roblox. Идеально подходит для тех, кому нужно держать аккаунты в игре 24/7 (фарм, АФК-стенды и т.д.) без страха крашей и вылетов.
 
 * **🔄 Умный Авто-Рестарт:** Программа автоматически распознает закрытие окна, зависание игры или превышение лимита ОЗУ, чтобы мгновенно перезапустить нужный аккаунт.
-* **👥 Менеджер Аккаунтов:** Встроенный безопасный браузер (WebView2) для авторизации в 1 клик. Поддержка мульти-окон (для запуска нескольких аккаунтов одновременно потребуется патч, например *Bloxstrap*).
+* **👥 Менеджер Аккаунтов:** Встроенный безопасный браузер (WebView2) для авторизации в 1 клик. Поддержка мульти-окон.
 * **👻 Ghost Mode (Скрытый режим):** Полностью прячет окна игры с рабочего стола и панели задач, чтобы они не мешали вам пользоваться ПК.
 * **⏱️ Гибкие таймеры:** Настройка задержки между запусками окон, плановые рестарты окон каждые X минут и таймер полного отключения фермы.
 * **🔔 Уведомления:** Получайте отчеты о стабильности, логи перезапусков и даже **скриншоты при крашах** прямо в ваш **Discord Webhook** или **Telegram Bot**.
