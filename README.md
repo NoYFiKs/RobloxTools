@@ -49,12 +49,6 @@
 
 ---
 
-## 📸 Screenshots / Скриншоты
-
-*[Здесь вы можете добавить скриншоты интерфейса. Просто перетащите картинки прямо в редактор GitHub, и они превратятся в ссылки]*
-
----
-
 ### ⚠️ Disclaimer
 *This software is a third-party tool and is not affiliated with, endorsed, or sponsored by Roblox Corporation. Use responsibly.*
 *Эта программа является сторонним инструментом и никак не связана с корпорацией Roblox. Используйте на свой страх и риск.*
