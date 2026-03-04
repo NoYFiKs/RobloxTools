@@ -49,6 +49,16 @@
 
 ---
 
+## 📞 Contact & Support / Контакты и Поддержка
+
+**🇬🇧 EN:** If you have any questions, need help with the setup, or want to report a bug, feel free to contact us on Discord:
+**🇷🇺 RU:** Если у вас есть вопросы, нужна помощь с настройкой или вы нашли баг, свяжитесь с нами в Discord:
+
+* 👾 **Discord 1:** `nfputin`
+* 👾 **Discord 2:** `halgerte`
+
+---
+
 ### ⚠️ Disclaimer
 *This software is a third-party tool and is not affiliated with, endorsed, or sponsored by Roblox Corporation. Use responsibly.*
 *Эта программа является сторонним инструментом и никак не связана с корпорацией Roblox. Используйте на свой страх и риск.*
