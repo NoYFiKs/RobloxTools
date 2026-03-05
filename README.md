@@ -1,6 +1,6 @@
 # 🚀 RobloxTools (Advanced Auto-Restart & Manager)
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Version](https://img.shields.io/badge/version-v1.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-Active-success)
 
