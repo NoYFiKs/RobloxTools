@@ -1,66 +1,57 @@
-> [!WARNING]
-> ⚠️ **STATUS: TEMPORARILY UNAVAILABLE / ВРЕМЕННО НЕ РАБОТАЕТ** ⚠️
-> 
-> **🇬🇧 EN:** The program is currently undergoing a massive global update (new security system, HWID locks, and multi-account engine). Downloads and key activations are temporarily disabled. Please check back later!
-> 
-> **🇷🇺 RU:** Программа временно не работает в связи с глобальным обновлением ядра (новая система безопасности, привязка к ПК и улучшение мульти-окон). Скачивание и активация ключей временно отключены. Скоро вернемся!
+# 🚀 RobloxTools (Premium Auto-Restart & Multi-Account Manager)
 
-# 🚀 RobloxTools (Advanced Auto-Restart & Manager)
-
-
-![Version](https://img.shields.io/badge/version-v1.1.0-blue)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![Status](https://img.shields.io/badge/status-Active-failure)
+![Status](https://img.shields.io/badge/status-Active-success)
+![Security](https://img.shields.io/badge/security-HWID_Locked-red)
 
-**RobloxTools** is an advanced, automated tool designed for Roblox players who need their game instances to run 24/7 without interruptions. It features a smart tracking system, a multi-account manager, real-time crash recovery, and a beautiful modern interface.
+**RobloxTools** is an advanced, commercial-grade automated tool designed for Roblox players who need their game instances to run 24/7 without interruptions. Built from the ground up for massive farms, it features a smart log-tracking system, a multi-account manager, hardware-level security, and a beautiful modern interface.
 
 ---
 
 ## ✨ Features (English)
 
-* **🔄 Smart Auto-Restart:** Automatically detects game crashes, frozen windows (Not Responding), or excessive RAM usage and immediately restarts the specific account.
-* **👥 Multi-Account Manager:** Built-in secure browser (WebView2) for 1-click logins, or manual Cookie injection. Manage multiple accounts simultaneously.
-* **👻 Ghost Mode:** Completely hides active Roblox windows from your desktop and taskbar to save resources and keep your workspace clean.
+* **👥 Multi-Account Manager:** Run and manage a massive farm with perfect Process ID (PID) isolation. If one bot out of 10 crashes, *only* that specific instance will be restarted. The rest of your farm remains completely untouched!
+* **🔥 Smart Log Scanner:** The engine actively monitors system logs in real-time. It instantly detects game freezes, kicks, timeouts, and disconnections (including Errors 277, 268, 279, 290, 273, and 267).
+* **🛡️ Ultimate Security:** License keys are strictly hardware-locked (HWID) to your PC. Your subscription timer starts *only* upon your first login, and your local session data is protected with banking-grade DPAPI encryption.
+* **👻 Ghost Mode:** Completely hide active game windows from your desktop and taskbar to save PC resources and keep your workspace clean.
 * **⏱️ Advanced Timers:** Set custom intervals for health checks, launch delays, scheduled force-restarts for each window, or complete farm shutdowns after X minutes.
-* **🔔 Real-Time Notifications:** Receive live status reports, restart alerts, and crash screenshots directly to your **Discord Webhook** or **Telegram Bot**.
-* **💎 Modern UI:** Sleek, dark "Glassmorphism" interface.
-* **☁️ Auto-Updater:** Seamlessly fetches the latest `.exe` updates directly from the server without losing your settings or accounts.
+* **🔔 Live Webhooks:** Receive real-time status reports, restart alerts, and crash screenshots directly to your **Discord Webhook** or **Telegram Bot**.
+* **⚡ Native Auto-Updater:** Seamlessly fetches the latest updates directly from the server without triggering false-positive antivirus blocks.
 
-### 📥 Installation & Usage
+### 📥 Getting Started
 1. Go to the [Releases](../../releases) tab and download the latest **`RobloxTools.exe`** file.
-2. **Important:** Create a new empty folder on your PC and place the `.exe` file inside it (the program will create necessary data folders next to it).
-3. Make sure you have [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) installed (usually pre-installed on Windows 10/11).
-4. Run `RobloxTools.exe`.
-5. Enter your license key, add your accounts via the **Settings -> Accounts** menu, input your Place ID, and click **INITIATE SYSTEM**.
+2. Place the file in a **new empty folder** on your PC (the program will create necessary encrypted data folders next to it).
+3. Run `RobloxTools.exe`.
+4. Enter your License Key, add your accounts via the **Settings -> Accounts** menu, input your Place ID, and click **INITIATE SYSTEM**.
 
 ---
 ---
 
 ## ✨ Особенности (Русский)
 
-**RobloxTools** — это продвинутая система для автоматизации и контроля окон Roblox. Идеально подходит для тех, кому нужно держать аккаунты в игре 24/7 (фарм, АФК-стенды и т.д.) без страха крашей и вылетов.
+**RobloxTools** — это премиальная система для автоматизации и контроля окон Roblox. Идеально подходит для тех, кому нужно держать огромные фермы аккаунтов в игре 24/7 без страха крашей и вылетов.
 
-* **🔄 Умный Авто-Рестарт:** Программа автоматически распознает закрытие окна, зависание игры или превышение лимита ОЗУ, чтобы мгновенно перезапустить нужный аккаунт.
-* **👥 Менеджер Аккаунтов:** Встроенный безопасный браузер (WebView2) для авторизации в 1 клик. Поддержка мульти-окон.
-* **👻 Ghost Mode (Скрытый режим):** Полностью прячет окна игры с рабочего стола и панели задач, чтобы они не мешали вам пользоваться ПК.
+* **👥 Менеджер мульти-аккаунтов:** Управляйте целой фермой ботов с идеальной изоляцией процессов (по PID). Если крашится одно окно из десяти — перезапустится *только оно*, не сбивая фарм остальным!
+* **🔥 Умный сканер логов:** Движок мониторит системные файлы в реальном времени и моментально распознает зависания, кики модераторами, тайм-ауты и дисконнекты (включая Коды 277, 268, 279, 290, 273 и 267).
+* **🛡️ Ультимативная безопасность:** Ключи доступа жестко привязываются к вашему железу (HWID). Отсчет времени подписки начинается *только* в момент первой активации, а локальные данные защищены банковским шифрованием DPAPI.
+* **👻 Ghost Mode (Скрытый режим):** Полностью прячет окна игры с рабочего стола и панели задач для жесткой экономии ресурсов компьютера.
 * **⏱️ Гибкие таймеры:** Настройка задержки между запусками окон, плановые рестарты окон каждые X минут и таймер полного отключения фермы.
-* **🔔 Уведомления:** Получайте отчеты о стабильности, логи перезапусков и даже **скриншоты при крашах** прямо в ваш **Discord Webhook** или **Telegram Bot**.
-* **💎 Современный дизайн:** Красивый темный интерфейс в стиле Glassmorphism.
-* **☁️ Автообновление:** Программа сама проверит наличие новых версий и обновится в один клик, сохраняя все ваши настройки и куки.
+* **🔔 Уведомления:** Получайте отчеты о стабильности, логи перезапусков и скриншоты вылетов прямо в ваш **Discord** или **Telegram**.
+* **⚡ Умное Автообновление:** Программа сама проверяет наличие патчей и обновляется в один клик, обходя ошибочные блокировки Windows Defender.
 
 ### 📥 Установка и Запуск
 1. Перейдите во вкладку [Releases](../../releases) и скачайте актуальный файл **`RobloxTools.exe`**.
-2. **Важно:** Создайте новую пустую папку на компьютере и перенесите туда скачанный файл (при запуске программа создаст рядом с собой системные папки).
-3. Убедитесь, что у вас установлен [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) (обычно уже встроен в Windows 10/11).
-4. Запустите `RobloxTools.exe`.
-5. Введите ваш ключ активации, зайдите в **Настройки -> Аккаунты** для добавления профилей, укажите Place ID и нажмите **ЗАПУСТИТЬ**.
+2. Поместите файл в **новую пустую папку** на компьютере (при запуске программа создаст рядом с собой системные зашифрованные файлы).
+3. Запустите `RobloxTools.exe`.
+4. Введите ваш ключ активации, добавьте аккаунты в меню **Настройки -> Аккаунты**, укажите Place ID и нажмите **ЗАПУСТИТЬ**.
 
 ---
 
 ## 📞 Contact & Support / Контакты и Поддержка
 
-**🇬🇧 EN:** If you have any questions, need help with the setup, or want to report a bug, feel free to contact us on Discord:
-**🇷🇺 RU:** Если у вас есть вопросы, нужна помощь с настройкой или вы нашли баг, свяжитесь с нами в Discord:
+**🇬🇧 EN:** If you want to purchase a key, have questions, or need help with the setup, feel free to contact us on Discord:
+**🇷🇺 RU:** Если вы хотите приобрести ключ, у вас есть вопросы или нужна помощь с настройкой, свяжитесь с нами в Discord:
 
 * 👾 **Discord 1:** `nfputin`
 * 👾 **Discord 2:** `halgerte`
