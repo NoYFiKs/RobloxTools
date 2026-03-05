@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-v1.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![Status](https://img.shields.io/badge/status-Active-success)
+![Status](https://img.shields.io/badge/status-Active-failure)
 
 **RobloxTools** is an advanced, automated tool designed for Roblox players who need their game instances to run 24/7 without interruptions. It features a smart tracking system, a multi-account manager, real-time crash recovery, and a beautiful modern interface.
 
