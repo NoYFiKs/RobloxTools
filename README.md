@@ -1,4 +1,12 @@
+> [!WARNING]
+> ⚠️ **STATUS: TEMPORARILY UNAVAILABLE / ВРЕМЕННО НЕ РАБОТАЕТ** ⚠️
+> 
+> **🇬🇧 EN:** The program is currently undergoing a massive global update (new security system, HWID locks, and multi-account engine). Downloads and key activations are temporarily disabled. Please check back later!
+> 
+> **🇷🇺 RU:** Программа временно не работает в связи с глобальным обновлением ядра (новая система безопасности, привязка к ПК и улучшение мульти-окон). Скачивание и активация ключей временно отключены. Скоро вернемся!
+
 # 🚀 RobloxTools (Advanced Auto-Restart & Manager)
+
 
 ![Version](https://img.shields.io/badge/version-v1.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
