@@ -1,6 +1,6 @@
 # 🚀 RobloxTools (Premium Auto-Restart & Remote Manager)
 
-![Version](https://img.shields.io/badge/version-v1.1.0-blue)
+![Version](https://img.shields.io/badge/version-v1.1.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-Active-success)
 ![Security](https://img.shields.io/badge/security-HWID_Locked-red)
